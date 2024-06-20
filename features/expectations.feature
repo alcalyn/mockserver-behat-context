@@ -342,12 +342,8 @@ Feature: Expectations
                             "values": ["val"]
                         },
                         {
-                            "name": "scopes[0]",
-                            "values": ["basics"]
-                        },
-                        {
-                            "name": "scopes[1]",
-                            "values": ["optins"]
+                            "name": "scopes[]",
+                            "values": ["basics", "optins"]
                         },
                         {
                             "name": "array[key]",

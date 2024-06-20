@@ -4,6 +4,8 @@ Php client and behat context for [MockServer](https://www.mock-server.com/).
 
 ## Install
 
+From [Packagist](https://packagist.org/packages/lequipefr/mockserver-behat-context):
+
 ``` bash
 composer require --dev lequipefr/mockserver-behat-context
 ```
